@@ -38,6 +38,7 @@ function MessageBar() {
             className="text-panel-header-icon cursor-pointer text-xl"
             
             />
+
           </button>
         </div>
 
